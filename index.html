@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Longman Communication 3000</title>
     <link rel="stylesheet" href="style.css" type="text/css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" defer></script>
+  <script src="script.js" defer></script>
   </head>
 
   <body>
@@ -13,10 +15,10 @@
     </header>
 
     <nav>
-      <div id="howToUseBtn" class="advice">이용법</div>
-      <div id="partOfSpeechBtn" class="advice">품사 도움말</div>
-      <div id="slwlBtn" class="advice">SL? WL?</div>
-      <select class="eachSelect">
+      <button type="button" id="howToUseBtn" class="advice">이용법</button>
+      <button type="button" id="partOfSpeechBtn" class="advice">품사 도움말</button>
+      <button type="button" id="slwlBtn" class="advice">SL? WL?</button>
+      <select name="alphabetSort" class="eachSelect">
         <option value="전체보기">전체보기</option>
         <option value="한 단어씩 보기">한 단어씩 보기</option>
         <option value="A~ 단어만 보기">A~ 단어만 보기</option>
@@ -45,7 +47,7 @@
         <option value="Y~ 단어만 보기">Y~ 단어만 보기</option>
         <option value="Z~ 단어만 보기">Z~ 단어만 보기</option>
       </select>
-      <select class="eachSelect">
+      <select name="typeSort" class="eachSelect">
         <option value="알파벳순 보기">알파벳순 보기</option>
         <option value="speaking순 보기">Spoken순 보기</option>
         <option value="writing순 보기">Written순 보기</option>
@@ -65,16 +67,15 @@
 
     <section>
       <table>
+
         <thead>
           <!--테이블 헤더 줄. 스크롤 내려도 상단 고정-->
           <th class="column1">단어</th>
           <th class="column2">품사</th>
           <th class="column3">SL</th>
           <th class="column4">WL</th>
-          <th class="column5">이미지 검색</th>
-          <th class="column6">영영사전</th>
-          <th class="column7">영한사전</th>
         </thead>
+
         <tbody>
           <tr>
             <!--단어 시작 줄.-->
@@ -82,47 +83,17 @@
             <td class="column2">더미</td>
             <td class="column3">더미</td>
             <td class="column4">더미</td>
-            <td class="column5">
-              <!-- <input type="button" value="image"> -->
-              <div class="link">image</div>
-            </td>
-            <td class="column6">
-              <!-- <input type="button" value="eng-eng"> -->
-              <div class="link">eng-eng</div>
-            </td>
-            <td class="column7">
-              <!-- <input type="button" value="eng-kor"> -->
-              <div class="link">eng-kor</div>
-            </td>
           </tr>
-          <tr class="trColor">
-            <!--단어 시작 줄. 색상 교차-->
-            <td class="column1">더미</td>
-            <td class="column2">더미</td>
-            <td class="column3">더미</td>
-            <td class="column4">더미</td>
-            <td class="column5">
-              <!-- <input type="button" value="image"> -->
-              <button type="button" class="link">image</button>
-            </td>
-            <td class="column6">
-              <!-- <input type="button" value="eng-eng"> -->
-              <button type="button" class="link">eng-eng</button>
-            </td>
-            <td class="column7">
-              <!-- <input type="button" value="eng-kor"> -->
-              <button type="button" class="link">eng-kor</button>
-            </td>
-          </tr>
+          
         </tbody>
+
       </table>
     </section>
 
-    <footer>
-      ⓒ 2020. Seo Suyeon. All rights reserved.
-    </footer>
+    <!-- <footer>
+      ⓒ 2020. Skyler Seo. All rights reserved.
+    </footer> -->
   </body>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-  <script src="script.js"></script>
+  
 </html>

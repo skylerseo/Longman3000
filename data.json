@@ -1,3204 +1,3692 @@
-//양식
-/*
-    "word" : ,
-    "partOfSpeech" : ,
-    "spokenLevel" : ,
-    "writtenLevel" : 
-*/
-
 {
-    "words":[
-        {
+    "words": [{
             "word": "a",
             "partOfSpeech": "indefinite article, determiner",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "abandon",
             "partOfSpeech": "v",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "ability",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "able",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "about",
             "partOfSpeech": "prep",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "about",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "above",
             "partOfSpeech": "adv, prep",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "above",
             "partOfSpeech": "adj",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "abroad",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "absence",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "absolute",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "absolutely",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W3"
         },
         {
             "word": "absorb",
             "partOfSpeech": "v",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "abuse",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "academic",
             "partOfSpeech": "adj",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W2"
         },
         {
             "word": "accept",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "acceptable",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "access",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "accident",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "accommodation",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "accompany",
             "partOfSpeech": "v",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W2"
         },
         {
             "word": "according to",
             "partOfSpeech": "prep",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "account",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "account",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "accurate",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "accuse",
             "partOfSpeech": "v",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "achieve",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "achievement",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "acid",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "acknowledge",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "acquire",
             "partOfSpeech": "v",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W2"
         },
         {
             "word": "across",
             "partOfSpeech": "adv, prep",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "act",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "act",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "action",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "active",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "activist",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "activity",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "actor",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "actual",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "actually",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "ad",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "adapt",
             "partOfSpeech": "v",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "add",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "addition",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W1"
         },
         {
             "word": "additional",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "address",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "address",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "adequate",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "adjust",
             "partOfSpeech": "v",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "administration",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "administrative",
             "partOfSpeech": "adj",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "admire",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "admission",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "admit",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "adopt",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "adult",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "adult",
             "partOfSpeech": "adj",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "advance",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "advance",
             "partOfSpeech": "v",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "advanced",
             "partOfSpeech": "adj",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "advantage",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "advert",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "advertise",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "advertisement",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "advertising",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "advice",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "advise",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "adviser",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "affair",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "affect",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "afford",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W3"
         },
         {
             "word": "afraid",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "after",
             "partOfSpeech": "prep, conj, adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "afternoon",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "afterwards",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "again",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "against",
             "partOfSpeech": "prep",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "age",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "aged",
             "partOfSpeech": "adj",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "agency",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W1"
         },
         {
             "word": "agent",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "aggressive",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "ago",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "agree",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "agreement",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "agriculture",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W2"
         },
         {
             "word": "ahead",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "aid",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "aim",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "aim",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "air",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "aircraft",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "airline",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "airport",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "alarm",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "album",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "alcohol",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "alive",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "all",
             "partOfSpeech": "determiner, predeterminer, pron",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "all",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "allow",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "allowance",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "all right",
             "partOfSpeech": "adj, adv, interjection",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "almost",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "alone",
             "partOfSpeech": "adj, adv",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "along",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "along",
             "partOfSpeech": "prep",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "alongside",
             "partOfSpeech": "adv, prep",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "already",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "also",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "alter",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "alternative",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "alternative",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "although",
             "partOfSpeech": "conj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "altogether",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "always",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "amazing",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "ambition",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "ambulance",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "among",
             "partOfSpeech": "prep",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "amount",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "an",
             "partOfSpeech": "indefinite article, determiner",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "analyse",
             "partOfSpeech": "v",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "analysis",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W1"
         },
         {
             "word": "analyst",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W2"
         },
         {
             "word": "ancient",
             "partOfSpeech": "adj",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W2"
         },
         {
             "word": "and",
             "partOfSpeech": "conj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "anger",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "angle",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "angry",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "animal",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "announce",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "announcement",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "annoy",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "annual",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "another",
             "partOfSpeech": "determiner, pron",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "answer",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "answer",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "anticipate",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "anxiety",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "anxious",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "any",
             "partOfSpeech": "determiner, pron",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "any",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "anybody",
             "partOfSpeech": "pron",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W3"
         },
         {
             "word": "anyhow",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "anyone",
             "partOfSpeech": "pron",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "anything",
             "partOfSpeech": "pron",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "anyway",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "anywhere",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W3"
         },
         {
             "word": "apart",
             "partOfSpeech": "adv, adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "apartment",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "apologize",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "apology",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "apparent",
             "partOfSpeech": "adj",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W2"
         },
         {
             "word": "apparently",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "appeal",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "appeal",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "appear",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "appearance",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W2"
         },
         {
             "word": "apple",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "application",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "apply",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "appoint",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "appointment",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "appreciate",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "approach",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "approach",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "appropriate",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "approval",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "approve",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "approximate",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "architect",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "architecture",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "area",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "argue",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "argument",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "arise",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "arm",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "armed",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "army",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "around",
             "partOfSpeech": "dv, prep",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "arrange",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "arrangement",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "arrest",
             "partOfSpeech": "v",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "arrival",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "arrive",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "art",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "article",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "artificial",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "artist",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "as",
             "partOfSpeech": "conj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "as",
             "partOfSpeech": "prep, adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "ashamed",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "aside",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "ask",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "asleep",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "aspect",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "assess",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "assessment",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "assignment",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "assist",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "assistance",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "assistant",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "associate",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "association",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W1"
         },
         {
             "word": "assume",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "assumption",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "assure",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "at",
             "partOfSpeech": "prep",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "atmosphere",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "attach",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "attack",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "attack",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "attempt",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "attempt",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "attend",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "attention",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "attitude",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "attorney",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "attract",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "attraction",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "attractive",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "audience",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "aunt",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "author",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W2"
         },
         {
             "word": "authority",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W1"
         },
         {
             "word": "automatic",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "automatically",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "autumn",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "available",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "average",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "average",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "avoid",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "awake",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "award",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "award",
             "partOfSpeech": "v",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "aware",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "awareness",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "away",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "awful",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "-"
         },
         {
             "word": "awkward",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "baby",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "back",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "back",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "back",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "back",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "background",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "backwards",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "bacon",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "bad",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "badly",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "bag",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "bake",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "balance",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "balance",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "ball",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "ban",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "band",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "bang",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "bang",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "bank",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "bar",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "barrier",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "base",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "base",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "baseball",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "basic",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "basically",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "-"
         },
         {
             "word": "basis",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "basket",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "bat",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "bath",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "bathroom",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "battery",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "battle",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W2"
         },
         {
             "word": "be",
             "partOfSpeech": "auxiliary",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "be",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "beach",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "bean",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "bear",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "beard",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "beat",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "beat",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "beautiful",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "beauty",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "because",
             "partOfSpeech": "conj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "become",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "bed",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "bedroom",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "beef",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "beer",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "before",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "before",
             "partOfSpeech": "conj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "before",
             "partOfSpeech": "prep",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "beforehand",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "begin",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "beginning",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "behalf",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "behave",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "behaviour",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "behind",
             "partOfSpeech": "prep, adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "being",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "belief",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "believe",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "bell",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "belong",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "below",
             "partOfSpeech": "adv, prep",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "belt",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "bench",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "bend",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "beneath",
             "partOfSpeech": "adv, prep",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W2"
         },
         {
             "word": "benefit",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "benefit",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "beside",
             "partOfSpeech": "prep",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "best",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "best",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "bet",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "-"
         },
         {
             "word": "bet",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "better",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "better",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "between",
             "partOfSpeech": "adv, prep",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "beyond",
             "partOfSpeech": "prep, adv",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "bicycle",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "bid",
             "partOfSpeech": "n",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "big",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "bike",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "bill",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "bin",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "bird",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "birth",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "birthday",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W3"
         },
         {
             "word": "biscuit",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "bit",
             "partOfSpeech": "adv, pron",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "bit",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "bite",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "bite",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": ""
         },
         {
             "word": "bitter",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "black",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "blade",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "blame",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "blank",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "bless",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "blind",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "block",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "block",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "bloke",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "blonde",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "blood",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W1"
         },
         {
             "word": "blow",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "blow",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "blue",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "board",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "boat",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "body",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "boil",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "boiler",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "boiling",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "bomb",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "bone",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "bonus",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "book",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "book",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "boom",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "boot",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "border",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "bored",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "boring",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "born",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "borrow",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "boss",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "both",
             "partOfSpeech": "determiner, predeterminer, pron",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "bother",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W3"
         },
         {
             "word": "bottle",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "bottom",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W3"
         },
         {
             "word": "bounce",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "bound",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "bowl",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "box",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "boy",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "boyfriend",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "brain",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "branch",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "brave",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "bread",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "break",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "break",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "breakfast",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "breast",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "breath",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W2"
         },
         {
             "word": "breathe",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "brick",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "bridge",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "brief",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "briefly",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "bright",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "brilliant",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "bring",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "broad",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "brother",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "brown",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W2"
         },
         {
             "word": "brush",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "brush",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "buck",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "-"
         },
         {
             "word": "bucket",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "buddy",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "budget",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "bug",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "build",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "builder",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "building",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "bump",
             "partOfSpeech": "v",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "bunch",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "burn",
             "partOfSpeech": "v",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "burn",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "burst",
             "partOfSpeech": "v",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "bury",
             "partOfSpeech": "v",
-            "spokenLevel" : "-",
+            "spokenLevel": "-",
             "writtenLevel": "W3"
         },
         {
             "word": "bus",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "business",
             "partOfSpeech": "n",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "busy",
             "partOfSpeech": "adj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W2"
         },
         {
             "word": "but",
             "partOfSpeech": "conj",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "but",
             "partOfSpeech": "prep",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "but",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "W3"
         },
         {
             "word": "butcher",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "-"
         },
         {
             "word": "butter",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "button",
             "partOfSpeech": "n",
-            "spokenLevel" : "S2",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "buy",
             "partOfSpeech": "v",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "buyer",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
             "writtenLevel": "W3"
         },
         {
             "word": "by",
             "partOfSpeech": "adv",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "by",
             "partOfSpeech": "prep",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "W1"
         },
         {
             "word": "bye",
             "partOfSpeech": "interjection",
-            "spokenLevel" : "S1",
+            "spokenLevel": "S1",
             "writtenLevel": "-"
         },
         {
             "word": "bye",
             "partOfSpeech": "n",
-            "spokenLevel" : "S3",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
+        },
+        {
+            "word": "cabinet",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
+        },
+        {
+            "word": "cable",
+            "partOfSpeech": "n",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
+        },
+        {
+            "word": "cake",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W3"
+        },
+        {
+            "word": "calculate",
+            "partOfSpeech": "v",
+            "spokenLevel": "S2",
+            "writtenLevel": "W3"
+        },
+        {
+            "word": "calculation",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "-"
+        },
+        {
+            "word": "calculator",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
+        },
+        {
+            "word": "calendar",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
+        },
+        {
+            "word": "call",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
+        },
+        {
+            "word": "call",
+            "partOfSpeech": "v",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
+        },
+        {
+            "word": "calm",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S3",
+            "writtenLevel": "W3"
+        },
+        {
+            "word": "camera",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W3"
+        },
+        {
+            "word": "camp",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W3"
+        },
+        {
+            "word": "campaign",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W1"
+        },
+        {
+            "word": "can",
+            "partOfSpeech": "modal",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
+        },
+        {
+            "word": "can",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
             "writtenLevel": "-"
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
         {
             "word": "",
             "partOfSpeech": "",
-            "spokenLevel" : "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
+            "writtenLevel": ""
+        },
+        {
+            "word": "",
+            "partOfSpeech": "",
+            "spokenLevel": "",
             "writtenLevel": ""
         },
     ]
 }
 /*
 words{
-    a{
-        a indefinite article, determiner S1, W1
-        abandon v W3
-        ability n S2, W1
-        able adj S1, W1
-        about prep S1, W1
-        about adv S1, W1
-        above adv, prep S2, W1
-        above adj W3
-        abroad adv S2, W3
-        absence n S3, W2
-        absolute adj S2, W3
-        absolutely adv S1, W3
-        absorb v W3
-        abuse n S2, W3
-        academic adj W2
-        accept v S1, W1
-        acceptable adj S3, W3
-        access n S2, W1
-        accident n S2, W2
-        accommodation n S2, W2
-        accompany v W2
-        according to prep S2, W1
-        account n S1, W1
-        account v S3, W2
-        accurate adj S2, W3
-        accuse v W3
-        achieve v S2, W1
-        achievement n S3, W2
-        acid n W3
-        acknowledge v S3, W3
-        acquire v W2
-        across adv, prep S1, W1
-        act n S1, W1
-        act v S2, W1
-        action n S1, W1
-        active adj S2, W2
-        activist n S3
-        activity n S2, W1
-        actor n W3
-        actual adj S1, W2
-        actually adv S1, W1
-        ad n S3, W3
-        adapt v W3
-        add v S1, W1
-        addition n S3, W1
-        additional adj S3, W2
-        address n S2, W2
-        address v S2, W2
-        adequate adj S3, W3
-        adjust v W3
-        administration n S2, W2
-        administrative adj W3
-        admire v S3
-        admission n W3
-        admit v S2, W1
-        adopt v S3, W2
-        adult n S2, W2
-        adult adj W3
-        advance n S2, W2
-        advance v W3
-        advanced adj W3
-        advantage n S2, W1
-        advert n S3
-        advertise v S3, W3
-        advertisement n S3
-        advertising n W3
-        advice n S2, W2
-        advise v S2, W2
-        adviser n S3, W3
-        affair n S2, W1
-        affect v S2, W1
-        afford v S1, W3
-        afraid adj S1, W2
-        after prep, conj, adv S1, W1
-        afternoon n S1, W2
-        afterwards adv S2, W3
-        again adv S1, W1
-        against prep S1, W1
-        age n S1, W1
-        aged adj W3
-        agency n S3, W1
-        agent n S3, W2
-        aggressive adj S3
-        ago adv S1, W1
-        agree v S1, W1
-        agreement n S2, W1
-        agriculture n W2
-        ahead adv S1, W2
-        aid n S2, W2
-        aim n S2, W2
-        aim v S2, W2
-        air n S1, W1
-        aircraft n S2, W2
-        airline n S2, W3
-        airport n S3, W3
-        alarm n S2
-        album n S3, W3
-        alcohol n W3
-        alive adj S2, W3
-        all determiner, predeterminer, pron S1, W1
-        all adv S1, W1
-        allow v S1, W1
-        allowance n S2, W3
-        all right adj, adv,
-        interjection S1, W2
-        almost adv S1, W1
-        alone adj, adv S2, W1
-        along adv S1, W1
-        along prep S1, W1
-        alongside adv, prep W3
-        already adv S1, W1
-        also adv S1, W1
-        alter v S3, W3
-        alternative adj S2, W2
-        alternative n S2, W3
-        although conj S1, W1
-        altogether adv S2, W3
-        always adv S1, W1
-        amazing adj S2
-        ambition n W3
-        ambulance n S3
-        among prep S2, W1
-        amount n S1, W1
-        an indefinite article, determiner S1, W1
-        analyse v W3
-        analysis n S3, W1
-        analyst n W2
-        ancient adj W2
-        and conj S1, W1
-        anger n W3
-        angle n S3, W3
-        angry adj S3, W3
-        animal n S1, W1
-        announce v S2, W1
-        announcement n S3, W3
-        annoy v S3
-        annual adj S2, W2
-        another determiner, pron S1, W1
-        answer n S1, W1
-        answer v S1, W2
-        anticipate v S3
-        anxiety n S3, W3
-        anxious adj S3, W3
-        any determiner, pron S1, W1
-        any adv S2
-        anybody pron S1, W3
-        anyhow adv S3
-        anyone pron S1, W1
-        anything pron S1, W1
-        anyway adv S1, W2
-        anywhere adv S1, W3
-        apart adv, adj S2, W1
-        apartment n S2, W3
-        apologize v S2
-        apology n S3
-        apparent adj W2
-        apparently adv S1, W2
-        appeal n S2, W1
-        appeal v S3, W3
-        appear v S2, W1
-        appearance n W2
-        apple n S2, W3
-        application n S1, W1
-        apply v S1, W1
-        appoint v S2, W2
-        appointment n S2, W2
-        appreciate v S2, W3
-        approach n S2, W1
-        approach v S2, W2
-        appropriate adj S2, W1
-        approval n S2, W3
-        approve v S3, W2
-        approximate adj S3, W3
-        architect n W3
-        architecture n S3, W3
-        area n S1, W1
-        argue v S2, W1
-        argument n S1, W1
-        arise v S3, W2
-        arm n S1, W1
-        armed adj S3, W3
-        army n S1, W1
-        around adv, prep S1, W1
-        arrange v S2, W2
-        arrangement n S2, W2
-        arrest v W3
-        arrival n W3
-        arrive v S2, W1
-        art n S1, W1
-        article n S2, W1
-        artificial adj S3
-        artist n S3, W2
-        as conj S1, W1
-        as prep, adv S1, W1
-        ashamed adj S3
-        aside adv S3, W3
-        ask v S1, W1
-        asleep adj S2
-        aspect n S2, W1
-        assess v S2, W2
-        assessment n S3, W2
-        assignment n S2
-        assist v S3, W3
-        assistance n S3, W2
-        assistant n S3
-        associate v S3, W2
-        association n S3, W1
-        assume v S2, W1
-        assumption n S2, W2
-        assure v S2, W3
-        at prep S1, W1
-        atmosphere n S3, W2
-        attach v S2, W2
-        attack n S2, W2
-        attack v S3, W2
-        attempt n S2, W1
-        attempt v S2, W2
-        attend v S2, W2
-        attention n S2, W1
-        attitude n S2, W1
-        attorney n S2, W3
-        attract v S2, W2
-        attraction n W3
-        attractive adj S2, W2
-        audience n S2, W2
-        aunt n S3, W3
-        author n W2
-        authority n W1
-        automatic adj S3
-        automatically adv S3, W3
-        autumn n W3
-        available adj S1, W1
-        average adj S2, W2
-        average n S2
-        avoid v S2, W1
-        awake adj S3
-        award n S3, W2
-        award v W3
-        aware adj S1, W1
-        awareness n W3
-        away adv S1, W1
-        awful adj S1
-        awkward adj S3 
-    }
-    b{
-        baby n S1, W1
-        back adv S1, W1
-        back n S1, W1
-        back v S2, W3
-        back adj S2, W3
-        background n S2, W2
-        backwards adv S3
-        bacon n S3
-        bad adj S1, W1
-        badly adv S3, W3
-        bag n S1, W2
-        bake v S3
-        balance n S2, W2
-        balance v S3
-        ball n S1, W2
-        ban n W3
-        band n S2, W2
-        bang v S3
-        bang n S3
-        bank n S1, W1
-        bar n S1, W1
-        barrier n W3
-        base v S1, W1
-        base n S2, W2
-        baseball n S3, W2
-        basic adj S2, W1
-        basically adv S1
-        basis n S2, W1
-        basket n S3
-        bat n S3
-        bath n S2, W3
-        bathroom n S2, W3
-        battery n S2
-        battle n W2
-        be auxiliary S1, W1
-        be v S1, W1
-        beach n S2, W2
-        bean n S2
-        bear v S2, W2
-        beard n S3
-        beat v S2, W2
-        beat n S3
-        beautiful adj S1, W2
-        beauty n S3, W2
-        because conj S1, W1
-        because prep S1, W1
-        become v S1, W1
-        bed n S1, W1
-        bedroom n S1, W2
-        beef n S3
-        beer n S2, W3
-        before adv S1, W1
-        before conj S1, W1
-        before prep S1, W1
-        beforehand adv S3
-        begin v S1, W1
-        beginning n S1, W2
-        behalf n S3, W3
-        behave v S3, W3
-        behaviour n S2, W1
-        behind prep, adv S1, W1
-        being n S2, W3
-        belief n S3, W2
-        believe v S1, W1
-        bell n S2, W3
-        belong v S2, W2
-        below adv, prep S2, W2
-        belt n S2, W3
-        bench n S2, W3
-        bend v S3, W3
-        beneath adv, prep W2
-        benefit n S2, W1
-        benefit v S2, W3
-        beside prep S3, W2
-        best adj S1, W1
-        best adv S1, W2
-        bet v S1
-        bet n S3
-        better adj S1, W1
-        better adv S1, W1
-        between adv, prep S1, W1
-        beyond prep, adv S2, W1
-        bicycle n W3
-        bid n W3
-        big adj S1, W1
-        bike n S2
-        bill n S1, W1
-        bin n S2
-        bird n S2, W2
-        birth n S2, W2
-        birthday n S1, W3
-        biscuit n S2
-        bit adv, pron S1, W1
-        bit n S1, W1
-        bite v S2
-        bite n S3
-        bitter adj S3, W3
-        black adj S1, W1
-        blade n S3
-        blame v S2, W3
-        blank adj S3
-        bless v S3
-        blind adj S2, W3
-        block n S2, W2
-        block v S3
-        bloke n S2
-        blonde adj S3
-        blood n S2, W1
-        blow v S2, W3
-        blow n S3, W3
-        blue adj S1, W2
-        board n S1, W1
-        boat n S1, W2
-        body n S1, W1
-        boil v S3
-        boiler n S3
-        boiling adj S3
-        bomb n S3, W3
-        bone n S2, W2
-        bonus n S2
-        book n S1, W1
-        book v S2
-        boom n S3
-        boot n S2, W3
-        border n S3, W2
-        bored adj S3
-        boring adj S2
-        born v S1, W2
-        borrow v S2, W3
-        boss n S2, W3
-        both determiner, predeterminer, pron S1, W1
-        bother v S1, W3
-        bottle n S1, W2
-        bottom adj S1, W3
-        bottom n S1, W3
-        bounce v S3
-        bound adj S2, W3
-        bowl n S2, W3
-        box n S1, W1
-        boy n S1, W1
-        boyfriend n S3
-        brain n S2, W2
-        branch n S2, W2
-        brave adj S3
-        bread n S2, W3
-        break n S2, W2
-        break v S1, W1
-        breakfast n S2, W2
-        breast n S3
-        breath n S3, W2
-        breathe v S3, W3
-        brick n S2, W3
-        bridge n S2, W2
-        brief adj S2, W2
-        briefly adv S2, W3
-        bright adj S2, W2
-        brilliant adj S2, W3
-        bring v S1, W1
-        broad adj S2, W2
-        brother n S1, W1
-        brown adj S2, W2
-        brush n S3
-        brush v S3
-        buck n S1
-        bucket n S2
-        buddy n S3
-        budget n S1, W2
-        bug n S3
-        build v S1, W1
-        builder n S3
-        building n S1, W1
-        bump v S3
-        bunch n S2
-        burn v S2, W3
-        burn n S3
-        burst v W3
-        bury v W3
-        bus n S1, W2
-        business n S1, W1
-        busy adj S1, W2
-        but conj S1, W1
-        but prep S2, W3
-        but adv S2, W3
-        butcher n S3
-        butter n S2
-        button n S2
-        buy v S1, W1
-        buyer n S3, W3
-        by adv S1, W1
-        by prep S1, W1
-        bye interjection S1
-        bye n S3 
-    }
     c{
         cabinet n S2, W2
         cable n W3
@@ -6406,7 +6894,3 @@ words{
     }
 }
 */
-
-
-
-
