@@ -2982,1059 +2982,856 @@
             "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chain",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chair",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chairman",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "challenge",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "challenge",
+            "partOfSpeech": "v",
+            "spokenLevel": "S3",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "champion",
+            "partOfSpeech": "n",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "championship",
+            "partOfSpeech": "n",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chance",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "change",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "change",
+            "partOfSpeech": "v",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "channel",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chap",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chapter",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "character",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "characteristic",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "characterize",
+            "partOfSpeech": "v",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "charge",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "charge",
+            "partOfSpeech": "v",
+            "spokenLevel": "S1",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "charity",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chart",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chase",
+            "partOfSpeech": "v",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chat",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "cheap",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S1",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "cheat",
+            "partOfSpeech": "v",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "check",
+            "partOfSpeech": "v",
+            "spokenLevel": "S1",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "check",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "cheek",
+            "partOfSpeech": "n",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "cheese",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chemical",
+            "partOfSpeech": "adj",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chemical",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chemist",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chemistry",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "cheque",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "cherry",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chest",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chicken",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chief",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chief",
+            "partOfSpeech": "n",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "child",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "childhood",
+            "partOfSpeech": "n",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chip",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chocolate",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "choice",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "choose",
+            "partOfSpeech": "v",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chop",
+            "partOfSpeech": "v",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "chuck",
+            "partOfSpeech": "v",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "church",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "cigarette",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "cinema",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "circle",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "circuit",
+            "partOfSpeech": "n",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "circumstance",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "citizen",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "city",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "civil",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "claim",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "claim",
+            "partOfSpeech": "v",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "class",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "classic",
+            "partOfSpeech": "adj",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "classical",
+            "partOfSpeech": "adj",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "classroom",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "clean",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "clean",
+            "partOfSpeech": "v",
+            "spokenLevel": "S1",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "cleaner",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "clear",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "clear",
+            "partOfSpeech": "v",
+            "spokenLevel": "S1",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "clearly",
+            "partOfSpeech": "adv",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "clerk",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "clever",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S2",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "click",
+            "partOfSpeech": "v",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "client",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "climate",
+            "partOfSpeech": "n",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "climb",
+            "partOfSpeech": "v",
+            "spokenLevel": "-",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "clock",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "close",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "close",
+            "partOfSpeech": "adv",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "close",
+            "partOfSpeech": "v",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "closed",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "closely",
+            "partOfSpeech": "adv",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "closet",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "cloth",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "clothes",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "cloud",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "club",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "clue",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "coach",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "coal",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "coast",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "coat",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "code",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "coffee",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "coin",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "cold",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "collapse",
+            "partOfSpeech": "v",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "collar",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "-"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "colleague",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "collect",
+            "partOfSpeech": "v",
+            "spokenLevel": "S1",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "collection",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "college",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "colour",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "column",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "combination",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "combine",
+            "partOfSpeech": "v",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "come",
+            "partOfSpeech": "v",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "comfort",
+            "partOfSpeech": "n",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "comfortable",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S2",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "command",
+            "partOfSpeech": "n",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "comment",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "comment",
+            "partOfSpeech": "v",
+            "spokenLevel": "S3",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "commercial",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "commission",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "commit",
+            "partOfSpeech": "v",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "commitment",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "committee",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "common",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "communicate",
+            "partOfSpeech": "v",
+            "spokenLevel": "S3",
+            "writtenLevel": "W3"
         },
         {
-            "word": "",
-            "partOfSpeech": "",
-            "spokenLevel": "",
-            "writtenLevel": ""
+            "word": "communication",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W1"
+        },
+        {
+            "word": "community",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
+        },
+        {
+            "word": "company",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
+        },
+        {
+            "word": "compare",
+            "partOfSpeech": "v",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
+        },
+        {
+            "word": "comparison",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
+        },
+        {
+            "word": "compete",
+            "partOfSpeech": "v",
+            "spokenLevel": "S3",
+            "writtenLevel": "W3"
+        },
+        {
+            "word": "competition",
+            "partOfSpeech": "n",
+            "spokenLevel": "S2",
+            "writtenLevel": "W1"
+        },
+        {
+            "word": "competitive",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S3",
+            "writtenLevel": "W3"
+        },
+        {
+            "word": "complain",
+            "partOfSpeech": "v",
+            "spokenLevel": "S2",
+            "writtenLevel": "W3"
+        },
+        {
+            "word": "complaint",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W3"
+        },
+        {
+            "word": "complete",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S2",
+            "writtenLevel": "W1"
+        },
+        {
+            "word": "complete",
+            "partOfSpeech": "v",
+            "spokenLevel": "S2",
+            "writtenLevel": "W1"
+        },
+        {
+            "word": "completely",
+            "partOfSpeech": "adv",
+            "spokenLevel": "S1",
+            "writtenLevel": "W2"
+        },
+        {
+            "word": "complex",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
+        },
+        {
+            "word": "complicated",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S2",
+            "writtenLevel": "-"
+        },
+        {
+            "word": "component",
+            "partOfSpeech": "n",
+            "spokenLevel": "-",
+            "writtenLevel": "W2"
+        },
+        {
+            "word": "comprehensive",
+            "partOfSpeech": "adj",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
+        },
+        {
+            "word": "comprise",
+            "partOfSpeech": "v",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
+        },
+        {
+            "word": "computer",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
+        },
+        {
+            "word": "concentrate",
+            "partOfSpeech": "v",
+            "spokenLevel": "S2",
+            "writtenLevel": "W2"
+        },
+        {
+            "word": "concentration",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
+        },
+        {
+            "word": "concept",
+            "partOfSpeech": "n",
+            "spokenLevel": "S3",
+            "writtenLevel": "W2"
+        },
+        {
+            "word": "concern",
+            "partOfSpeech": "n",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
+        },
+        {
+            "word": "concern",
+            "partOfSpeech": "v",
+            "spokenLevel": "-",
+            "writtenLevel": "W3"
+        },
+        {
+            "word": "concerned",
+            "partOfSpeech": "adj",
+            "spokenLevel": "S1",
+            "writtenLevel": "W1"
         },
     ]
 }
 /*
 words{
-    c{
-        cabinet n S2, W2
-        cable n W3
-        cake n S2, W3
-        calculate v S2, W3
-        calculation n S2
-        calculator n S3
-        calendar n S3
-        call n S1, W1
-        call v S1, W1
-        calm adj S3, W3
-        camera n S2, W3
-        camp n S3, W3
-        campaign n S2, W1
-        can modal S1, W1
-        can n S2
-        cancel v S2
-        cancer n S2, W2
-        candidate n W2
-        candle n S3
-        candy n S3
-        cap n S3
-        capable adj S2, W2
-        capacity n S3, W2
-        capital n S3, W1
-        capital adj S2, W3
-        captain n W3
-        capture v W3
-        car n S1, W1
-        card n S1, W2
-        care n S1, W1
-        care v S1, W2
-        career n S2, W2
-        careful adj S1, W2
-        carefully adv S2, W2
-        carpet n S2, W3
-        carrot n S3
-        carry v S1, W1
-        cartoon n S3
-        case n S1, W1
-        cash n S2, W2
-        cash v S3
-        cast v W3
-        castle n W3
-        cat n S1, W3
-        catalogue n W3
-        catch v S1, W1
-        category n S2, W2
-        cause v S1, W1
-        cause n S2, W1
-        CD n S3, W3
-        cease v W3
-        ceiling n S3, W3
-        celebrate v W3
-        celebration n S3
-        cell n S3, W2
-        cellphone n S2, W3
-        cent n S1, W1
-        centimetre n S3, W3
-        central adj S1, W1
-        centre n S1, W1
-        century n S2, W1
-        cereal n S3
-        certain adj S1, W1
-        certainly adv S1, W1
-        certificate n S3, W3
-        chain n S3, W2
-        chair n S1, W2
-        chairman n S3, W1
-        challenge n S2, W2
-        challenge v S3, W3
-        champion n W3
-        championship n W3
-        chance n S1, W1
-        change n S1, W1
-        change v S1, W1
-        channel n S3, W2
-        chap n S2
-        chapter n S3, W1
-        character n S1, W1
-        characteristic n S3, W2
-        characterize v W3
-        charge n S1, W1
-        charge v S1, W2
-        charity n S3, W3
-        chart n S3, W3
-        chase v S3
-        chat n S2
-        cheap adj S1, W2
-        cheat v S3
-        check v S1, W2
-        check n S1, W3
-        cheek n W3
-        cheese n S2, W3
-        chemical adj W3
-        chemical n S3, W3
-        chemist n S3
-        chemistry n S2
-        cheque n S2
-        cherry n S3
-        chest n S2, W3
-        chicken n S2
-        chief adj S2, W2
-        chief n W3
-        child n S1, W1
-        childhood n W3
-        chip n S2, W3
-        chocolate n S2
-        choice n S1, W1
-        choose v S1, W1
-        chop v S3
-        chuck v S3
-        church n S1, W1
-        cigarette n S2, W3
-        cinema n S3
-        circle n S2, W2
-        circuit n W3
-        circumstance n S2, W1
-        citizen n S2, W2
-        city n S1, W1
-        civil adj S3, W2
-        claim n S2, W1
-        claim v S1, W1
-        class n S1, W1
-        classic adj W3
-        classical adj W3
-        classroom n S3, W3
-        clean adj S2, W2
-        clean v S1, W3
-        cleaner n S3
-        clear adj S1, W1
-        clear v S1, W2
-        clearly adv S1, W1
-        clerk n S3
-        clever adj S2
-        click v S3
-        client n S2, W1
-        climate n W3
-        climb v W2
-        clock n S2, W3
-        close adj S1, W1
-        close adv S2, W2
-        close v S1, W1
-        closed adj S3
-        closely adv S3, W2
-        closet n S3
-        cloth n S3
-        clothes n S2, W2
-        cloud n S3, W3
-        club n S1, W1
-        clue n S2
-        coach n S3, W2
-        coal n S2, W2
-        coast n S3, W2
-        coat n S2, W3
-        code n S2, W2
-        coffee n S1, W2
-        coin n S3
-        cold adj S1, W1
-        collapse v S3
-        collar n S3
-        colleague n S2, W2
-        collect v S1, W2
-        collection n S2, W1
-        college n S1, W2
-        colour n S1, W1
-        column n S3, W2
-        combination n S3, W2
-        combine v S3, W2
-        come v S1, W1
-        comfort n W3
-        comfortable adj S2, W3
-        command n W3
-        comment n S1, W2
-        comment v S3, W3
-        commercial adj S3, W2
-        commission n S3, W2
-        commit v S2, W2
-        commitment n S2, W2
-        committee n S3, W1
-        common adj S1, W1
-        communicate v S3, W3
-        communication n S2, W1
-        community n S1, W1
-        company n S1, W1
-        compare v S1, W1
-        comparison n S3, W2
-        compete v S3, W3
-        competition n S2, W1
-        competitive adj S3, W3
-        complain v S2, W3
-        complaint n S3, W3
-        complete adj S2, W1
-        complete v S2, W1
-        completely adv S1, W2
-        complex adj S3, W2
-        complicated adj S2
-        component n W2
-        comprehensive adj W3
-        comprise v W3
-        computer n S1, W1
-        concentrate v S2, W2
-        concentration n S3, W2
-        concept n S3, W2
-        concern n S1, W1
-        concern v W3
-        concerned adj S1, W1
-        concerning prep W3
-        concert n S3, W3
-        conclude v S3, W2
-        conclusion n S3, W2
-        condition n S2, W1
-        conduct n W3
-        conduct v W2
-        conference n S2, W1
-        confidence n S2, W2
-        confident adj S3, W3
-        confine v W3
-        confirm v S2, W2
-        conflict n S3, W2
-        confused adj S3
-        confusing adj S3
-        confusion n S3, W3
-        congratulation n S3
-        connect v S2, W2
-        connection n S3, W2
-        conscious adj S2, W3
-        consciousness n W3
-        consent n W3
-        consequence n S3, W2
-        consider v S1, W1
-        considerable adj S3, W1
-        considerably adv S3
-        consideration n S2, W2
-        consist v W3
-        consistent adj S3, W3
-        constant adj S3, W3
-        constantly adv S3, W3
-        constitute v W3
-        construct v W3
-        construction n S3, W2
-        consult v S3, W3
-        consumer n S3, W2
-        consumption n W3
-        contact n S2, W2
-        contact v S2, W2
-        contain v S2, W1
-        contemporary adj W2
-        content n S3, W2
-        contest n W3
-        context n S2, W2
-        continue v S1, W1
-        continuous adj S3, W3
-        contract n S1, W1
-        contrast n W2
-        contribute v S3, W2
-        contribution n S2, W2
-        control n S1, W1
-        control v S2, W1
-        convenient adj S3
-        convention n W2
-        conventional adj W3
-        conversation n S1, W2
-        convert v W3
-        conviction n W3
-        convince v S3, W3
-        cook v S1, W3
-        cooker n S3
-        cookie n S3, W3
-        cool adj S2, W3
-        cool v S2
-        cooperation n S3, W3
-        cope v S2, W3
-        copy n S1, W2
-        copy v S2
-        core n W3
-        corn n S3
-        corner n S1, W2
-        correct adj S1, W2
-        correct v S3
-        corridor n S3, W3
-        cost n S1, W1
-        cost v S1, W2
-        cottage n S3, W3
-        cotton n W3
-        could modal S1, W1
-        council n S2, W2
-        count v S2, W3
-        counter n S3
-        country n S1, W1
-        countryside n S3, W3
-        county n W2
-        couple n S1, W1
-        courage n S3
-        course n S1, W1
-        court n S1, W1
-        cousin n S2
-        cover n S1, W2
-        cover v S1, W1
-        cow n S2
-        crack v S3
-        craft n W3
-        crash n S3
-        crazy adj S2
-        create v S2, W1
-        creation n W2
-        creative adj W3
-        creature n W3
-        credit n S2, W2
-        credit card n S3, W3
-        crew n S3, W3
-        crime n S2, W2
-        criminal adj S3, W2
-        crisis n S3, W2
-        criterion n W2
-        critic n W3
-        critical adj S3, W2
-        criticism n S3, W2
-        criticize v W3
-        crop n W3
-        cross adj S2
-        cross n S3, W3
-        cross v S2, W2
-        crowd n S3, W2
-        crown n W3
-        crucial adj W2
-        cruel adj S3
-        cry n W3
-        cry v S2, W2
-        cultural adj W2
-        culture n S2, W1
-        cup n S1, W1
-        cupboard n S2
-        curious adj S3
-        currency n W2
-        current adj S2, W2
-        current n W3
-        currently adv S2, W2
-        curtain n S3, W3
-        curve n S3, W3
-        cushion n S3
-        custom n W3
-        customer n S1, W1
-        cut n S2, W2
-        cut v S1, W1
-        cute adj S2
-        cycle n S3, W3
-    }
+    
     d{
         dad n S1, W3
         daddy n S1
