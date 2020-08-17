@@ -1,6 +1,5 @@
 {
-  "words": [
-    {
+  "words": [{
       "word": "a",
       "partOfSpeech": "indefinite article, determiner",
       "spokenLevel": "S1",
@@ -13256,6 +13255,8280 @@
     },
     {
       "word": "ownership",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pace",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pack",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pack",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "package",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "packet",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pad",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "page",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "pain",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "paint",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "paint",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "painting",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "pair",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "palace",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pale",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pan",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "panel",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "panic",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pants",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "paper",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "parcel",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pardon",
+      "partOfSpeech": "interjection",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "parent",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "park",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "park",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "parking",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "parliament",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "part",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "participate",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "particular",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "particularly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "partly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "partner",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "partnership",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "party",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "pass",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "pass",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "passage",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "passenger",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "passion",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "past",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "past",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "past",
+      "partOfSpeech": "prep, adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "path",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "patience",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "patient",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "patient",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pattern",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "pause",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pay",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "pay",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "payment",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "peace",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "peaceful",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "peak",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pen",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "penalty",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pencil",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "penny",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pension",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "people",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "pepper",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "per",
+      "partOfSpeech": "prep",
+      "spokenLevel": "S3",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "perceive",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "percent",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "percentage",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "perception",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "perfect",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "perfectly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "perform",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "performance",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "perhaps",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "period",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "permanent",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "permission",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "permit",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "person",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "personal",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "personality",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "personally",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "personnel",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "perspective",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "persuade",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "petrol",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "phase",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "philosophy",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "phone",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "phone",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "photo",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "photocopy",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "photocopy",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "photograph",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "phrase",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "physical",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "physically",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "physics",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "piano",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pick",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "picture",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "pie",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "piece",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "pig",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pile",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pill",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pilot",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pin",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pink",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pint",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pipe",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pitch",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pity",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pizza",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "place",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "place",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "plain",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "plan",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "plan",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "plane",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "planet",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "plant",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "plastic",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "plate",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "platform",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "play",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "play",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "player",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "pleasant",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "please",
+      "partOfSpeech": "interjection",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "please",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pleased",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pleasure",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "plenty",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "plot",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "plug",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "plus",
+      "partOfSpeech": "prep",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "pocket",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "poem",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "poet",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "poetry",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "point",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "point",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "pole",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "police",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "policeman",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "policy",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "polite",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "political",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "politician",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "politics",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "poll",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pollution",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "pond",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pool",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "poor",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "pop",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pop",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "popular",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "population",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "port",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "pose",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "position",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "positive",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "possess",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "possession",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "possibility",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "possible",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "possibly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "post",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "post",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "post office",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "poster",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pot",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "potato",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "potential",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "potential",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pound",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "pour",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "poverty",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "power",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "powerful",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "practical",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "practically",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "practice",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "practise",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "praise",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pray",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "prayer",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "precise",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "precisely",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "predict",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "prefer",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "preference",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pregnant",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "premise",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "preparation",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "prepare",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "prepared",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "presence",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "present",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "present",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "present",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "presentation",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "preserve",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "president",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "press",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "press",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "pressure",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "presumably",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "presume",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pretend",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pretty",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pretty",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "prevent",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "previous",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "previously",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "price",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "pride",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "priest",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "primarily",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "primary",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "prince",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "princess",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "principal",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "principle",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "print",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "print",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "printer",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "prior",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "priority",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "prison",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "prisoner",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "private",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "privilege",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "prize",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "probably",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "problem",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "procedure",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "proceed",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "proceeding",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "process",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "produce",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "producer",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "product",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "production",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "profession",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "professional",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "professional",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "professor",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "profile",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "profit",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "program",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "programme",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "progress",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "project",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "promise",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "promise",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "promote",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "promotion",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "prompt",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "proof",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "proper",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "properly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "property",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "proportion",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "proposal",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "propose",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "proposed",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "prosecution",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "prospect",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "protect",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "protection",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "protest",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "proud",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "prove",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "provide",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "provided",
+      "partOfSpeech": "conj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "providing",
+      "partOfSpeech": "conj",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "provision",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "psychological",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "psychology",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pub",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "public",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "public",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "publication",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "publicity",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "publish",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "publisher",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pudding",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pull",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "punch",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "punishment",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pupil",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "purchase",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "purchase",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "pure",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "purely",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "purple",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "purpose",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "purse",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "pursue",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "push",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "put",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "qualification",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "qualify",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "quality",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "quantity",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "quarter",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "queen",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "question",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "question",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "queue",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "quick",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "quick",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "quickly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "quid",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "quiet",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "quietly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "quit",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "quite",
+      "partOfSpeech": "predeterminer, adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "quote",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "quote",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "race",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "racing",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "radical",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "radio",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "rail",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "railway",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "rain",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "rain",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "raise",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "range",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "range",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "rank",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "rapid",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "rapidly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "rare",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "rarely",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "rate",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "rather",
+      "partOfSpeech": "predeterminer, adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "ratio",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "raw",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "reach",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "react",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "reaction",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "read",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "reader",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "readily",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "reading",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "ready",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "real",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "realistic",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "reality",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "realize",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "really",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "reason",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "reasonable",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "reasonably",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "recall",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "receipt",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "receive",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "recent",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "recently",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "reception",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "recipe",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "reckon",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "recognition",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "recognize",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "recommend",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "recommendation",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "record",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "record",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "recording",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "recover",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "recovery",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "red",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "reduce",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "reduction",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "refer",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "reference",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "reflect",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "reflection",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "reform",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "refrigerator",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "refuse",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "regard",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "regard",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "regime",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "region",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "regional",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "register",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "registration",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "regret",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "regular",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "regularly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "regulation",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "reinforce",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "reject",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "relate",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "related",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "relation",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "relationship",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "relative",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "relative",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "relatively",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "relax",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "release",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "release",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "relevant",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "relief",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "relieve",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "religion",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "religious",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "rely",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "remain",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "remaining",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "remains",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "remark",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "remarkable",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "remember",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "remind",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "remote",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "remove",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "rent",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "rent",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "repair",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "repair",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "repeat",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "replace",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "replacement",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "reply",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "reply",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "report",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "report",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "reporter",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "represent",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "representation",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "representative",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "republic",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "reputation",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "request",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "require",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "requirement",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "rescue",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "research",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "reserve",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "reserve",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "resident",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "residential",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "resign",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "resignation",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "resist",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "resistance",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "resolution",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "resolve",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "resort",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "resource",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "respect",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "respectively",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "respond",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "response",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "responsibility",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "responsible",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "rest",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "rest",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "restaurant",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "restore",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "restrict",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "restriction",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "result",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "result",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "retain",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "retire",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "retirement",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "return",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "return",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "reveal",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "revenue",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "reverse",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "review",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "review",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "revolution",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "reward",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "rhythm",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "rice",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "rich",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "rid",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "ride",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "ride",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "ridiculous",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "right",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "right",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "right",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "right",
+      "partOfSpeech": "interjection",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "ring",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "ring",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "rip",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "rise",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "rise",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "risk",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "rival",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "river",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "road",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "rob",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "rock",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "role",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "roll",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "roof",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "room",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "root",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "rope",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "rough",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "roughly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "round",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "round",
+      "partOfSpeech": "adv, prep",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "round",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "route",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "routine",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "row",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "royal",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "rub",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "rubber",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "rubbish",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "rude",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "ruin",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "rule",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "rule",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "run",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "rural",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "rush",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sack",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "sad",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "safe",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "safety",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sail",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "sake",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "salad",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "salary",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sale",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "salt",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "same",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "same",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "same",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sample",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sand",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sandwich",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "satellite",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "satisfaction",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "satisfied",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "satisfy",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sauce",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "sausage",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "save",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "saving",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "say",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "scale",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "scared",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "scene",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "schedule",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "schedule",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "scheme",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "school",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "science",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "scientific",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "scientist",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "scope",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "score",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "score",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "scratch",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "scream",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "screen",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "screw",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "script",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "sea",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "seal",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "search",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "search",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "season",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "seat",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "second",
+      "partOfSpeech": "number",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "second",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "secondary",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "secondly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "secret",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "secret",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "secretary",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "section",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sector",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "secure",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "secure",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "security",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "see",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "seed",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "seek",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "seem",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "seize",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "select",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "selection",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "self",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sell",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "send",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "senior",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sense",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sensible",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sensitive",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sentence",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "separate",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "separate",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sequence",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "series",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "serious",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "seriously",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "servant",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "serve",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "service",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "session",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "set",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "set",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "setting",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "settle",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "settlement",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "several",
+      "partOfSpeech": "determiner, pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "severe",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sew",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "sex",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sexual",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "shadow",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "shake",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "shall",
+      "partOfSpeech": "modal",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "shame",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "shape",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "share",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "share",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sharp",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sharply",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "shave",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "she",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "shed",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "sheep",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sheet",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "shelf",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "shell",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "shelter",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "shift",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "shine",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "ship",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "shirt",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "shock",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "shocked",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "shocking",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "shoe",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "shoot",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "shop",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "shopping",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "short",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "shortly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "shot",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "should",
+      "partOfSpeech": "modal",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "shoulder",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "shout",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "shove",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "show",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "show",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "shower",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "shrug",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "shut",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sick",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "side",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sight",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sign",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sign",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "signal",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "signature",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "significance",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "significant",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "significantly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "silence",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "silent",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "silly",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "silver",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "similar",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "similarly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "simple",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "simply",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sin",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "since",
+      "partOfSpeech": "prep, conj, adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sing",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "singer",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "single",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sink",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "sink",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sir",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sister",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sit",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "site",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "situation",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "size",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "skill",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "skin",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "skirt",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "sky",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sleep",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sleep",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "slice",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "slide",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "slide",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "slight",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "slightly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "slim",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "slip",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "slip",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "slope",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "slow",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "slow",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "slowly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "small",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "smart",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "smell",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "smell",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "smile",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "smile",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "smoke",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "smoke",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "smoking",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "smooth",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "snap",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "snow",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "so",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "so",
+      "partOfSpeech": "conj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "soap",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "so-called",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "social",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "society",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sock",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "soft",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "software",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "soil",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "soldier",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sole",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "solicitor",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "solid",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "solution",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "solve",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "some",
+      "partOfSpeech": "determiner",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "some",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "some",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "somebody",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "somehow",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "someone",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "something",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sometimes",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "somewhat",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "somewhere",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "son",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "song",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "soon",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sore",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "sorry",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sort",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sort",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "soul",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sound",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sound",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sound",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "soup",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "source",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "south",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "southern",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "space",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "spare",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "spare",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "speak",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "speaker",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "special",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "specialist",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "species",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "specific",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "specifically",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "specify",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "speech",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "speed",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "spell",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "spelling",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "spend",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "spill",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "spin",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "spirit",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "spiritual",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "spite",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "split",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "spoil",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "spokesman",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "spoon",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "sport",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "spot",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "spot",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "spray",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "spread",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "spring",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "squad",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "square",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "square",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "squeeze",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "stable",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "staff",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "stage",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "stair",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "stake",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "stall",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "stamp",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "stamp",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "stand",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "standard",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "standard",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "star",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "stare",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "start",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "start",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "starve",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "state",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "state",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "statement",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "station",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "statistic",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "status",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "stay",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "stay",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "steady",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "steak",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "steal",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "steam",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "steel",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "steep",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "step",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "step",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "stick",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "stick",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "stiff",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "still",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "still",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "stir",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "stock",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "stomach",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "stone",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "stop",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "stop",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "storage",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "store",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "store",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "storm",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "story",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "straight",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "straight",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "straightforward",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "strain",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "strange",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "stranger",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "strategic",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "strategy",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "straw",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "strawberry",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "stream",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "street",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "strength",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "strengthen",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "stress",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "stress",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "stretch",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "strict",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "strike",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "strike",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "string",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "strip",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "stroke",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "strong",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "strongly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "structure",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "struggle",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "struggle",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "student",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "studio",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "study",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "study",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "stuff",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "stupid",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "style",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "subject",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "submit",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "subsequent",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "subsequently",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "substance",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "substantial",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "succeed",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "success",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "successful",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "successfully",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "such",
+      "partOfSpeech": "determiner, predeterminer, pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "suck",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "sudden",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "suddenly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "suffer",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sufficient",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sugar",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "suggest",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "suggestion",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "suit",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "suit",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "suitable",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "sum",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "summer",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sun",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "super",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "supermarket",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "supper",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "supply",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "supply",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "support",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "support",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "supporter",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "suppose",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sure",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "sure",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "surely",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "surface",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "surgery",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "surprise",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "surprised",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "surprising",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "surprisingly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "surround",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "survey",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "survival",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "survive",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "suspect",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "suspicion",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "suspicious",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "sustain",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "swap",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "swear",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "sweep",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sweet",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sweet",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "swim",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "swimming",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "swing",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "switch",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "switch",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "symbol",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "sympathy",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "system",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "table",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "tablet",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "tackle",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "tail",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "take",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "tale",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "talent",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "talk",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "talk",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "tall",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tank",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tap",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "tape",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "target",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "task",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "taste",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "taste",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "tax",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "taxi",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "tea",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "teach",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "teacher",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "teaching",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "team",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "tear",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "tear",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "technical",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "technique",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "technology",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "telephone",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "television",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "tell",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "telly",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "temperature",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "temporary",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "tend",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "tendency",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "tennis",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "tension",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tent",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "term",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "terrible",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "terribly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "territory",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "terror",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "terrorist",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "test",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "test",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "text",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "text",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "than",
+      "partOfSpeech": "conj, prep",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "thank",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "thanks",
+      "partOfSpeech": "interjection",
+      "spokenLevel": "S1",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "thanks",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "that",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "that",
+      "partOfSpeech": "determiner, pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "that",
+      "partOfSpeech": "conj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "the",
+      "partOfSpeech": "definite article, determiner",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "theatre",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "their",
+      "partOfSpeech": "determiner",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "theirs",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "them",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "theme",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "themselves",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "then",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "theoretical",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "theory",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "there",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "there",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "therefore",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "they",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "thick",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "thin",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "thing",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "think",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "this",
+      "partOfSpeech": "determiner, pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "though",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "though",
+      "partOfSpeech": "conj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "thought",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "threat",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "threaten",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "three",
+      "partOfSpeech": "number",
+      "spokenLevel": "S1",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "throat",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "through",
+      "partOfSpeech": "prep, adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "throughout",
+      "partOfSpeech": "prep, adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "throw",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "thus",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "ticket",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tidy",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "tie",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "tie",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "tight",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "tile",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "till",
+      "partOfSpeech": "prep, conj",
+      "spokenLevel": "S1",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "time",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "tin",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "tiny",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tip",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "tip",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "tired",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "title",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "to",
+      "partOfSpeech": "-",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "to",
+      "partOfSpeech": "prep",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "toast",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "today",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "toe",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "together",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "toilet",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "tomato",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "tomorrow",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "ton",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "tone",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tongue",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "tonight",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "too",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "tool",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tooth",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "top",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "top",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "topic",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "total",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "total",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "totally",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "touch",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "touch",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tough",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tour",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tourist",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "towards",
+      "partOfSpeech": "prep",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "towel",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "tower",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "town",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "toy",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "track",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "trade",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "trade",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tradition",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "traditional",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "traffic",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "trailer",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "train",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "train",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "trainer",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "training",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "transaction",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "transfer",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "transfer",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "transform",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "transition",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "translate",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "transport",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "transportation",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "trash",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "travel",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "travel",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tray",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "treat",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "treat",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "treatment",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "treaty",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tree",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "tremendous",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "trend",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "trial",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "trick",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "tricky",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "trip",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "troop",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "trouble",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "trousers",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "truck",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "true",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "truly",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "trust",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "trust",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "truth",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "try",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "try",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "tube",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "tune",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "tunnel",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "turn",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "turn",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "TV",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "twice",
+      "partOfSpeech": "adv, predeterminer",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "twist",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "type",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "typical",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "tyre",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "ugly",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "ultimate",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "ultimately",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "unable",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "unbelievable",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "uncle",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "under",
+      "partOfSpeech": "prep, adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "underneath",
+      "partOfSpeech": "prep, adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "understand",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "understanding",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "undertake",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "unemployed",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "unemployment",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "unfair",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "unfortunate",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "unfortunately",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "unhappy",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "uniform",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "union",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "unique",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "unit",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "united",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "unity",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "universal",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "universe",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "university",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "unknown",
+      "partOfSpeech": "adj, adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "unless",
+      "partOfSpeech": "conj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "unlike",
+      "partOfSpeech": "prep",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "unlikely",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "until",
+      "partOfSpeech": "prep, conj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "unusual",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "up",
+      "partOfSpeech": "adv, prep, adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "upon",
+      "partOfSpeech": "prep",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "upper",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "upset",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "upset",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "upstairs",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "urban",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "urge",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "urgent",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "us",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "use",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "use",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "used",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "used to",
+      "partOfSpeech": "modal",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "useful",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "user",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "usual",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "usually",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "vacation",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "vague",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "valley",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "valuable",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "value",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "van",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "variation",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "variety",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "various",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "vary",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "vast",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "vegetable",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "vehicle",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "version",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "very",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "very",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "vet",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "via",
+      "partOfSpeech": "prep",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "victim",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "victory",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "video",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "view",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "village",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "violence",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "violent",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "virtually",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "virtue",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "virus",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "visible",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "vision",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "visit",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "visit",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "visitor",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "visual",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "vital",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "voice",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "volume",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "voluntary",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "vote",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "vote",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "vulnerable",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "wage",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wait",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "wake",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "walk",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "walk",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wall",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "wander",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "want",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "war",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "ward",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "wardrobe",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "warm",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "warn",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "warning",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wash",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "washing",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "waste",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "waste",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "waste",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "watch",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "watch",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "water",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "wave",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wave",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "way",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "way",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "we",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "weak",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "weakness",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "wealth",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "weapon",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wear",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "weather",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "web",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "website",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wedding",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "week",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "weekend",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "weekly",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "weigh",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "weight",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "weird",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "welcome",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "welcome",
+      "partOfSpeech": "v",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "welfare",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "well",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "well",
+      "partOfSpeech": "interjection",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "well",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "west",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "western",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wet",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "what",
+      "partOfSpeech": "pron, determiner, predeterminer",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "whatever",
+      "partOfSpeech": "determiner, pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "whatsoever",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "wheel",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "when",
+      "partOfSpeech": "adv, conj, pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "whenever",
+      "partOfSpeech": "adv, conj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "where",
+      "partOfSpeech": "adv, conj, pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "whereas",
+      "partOfSpeech": "conj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wherever",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "whether",
+      "partOfSpeech": "conj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "which",
+      "partOfSpeech": "determiner, pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "while",
+      "partOfSpeech": "conj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "while",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "whisky",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "whisper",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "white",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "white",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "who",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "whoever",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "whole",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "whole",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "whom",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S3",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "whose",
+      "partOfSpeech": "determiner, pron",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "why",
+      "partOfSpeech": "adv, conj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "wicked",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "wide",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "wide",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "widely",
+      "partOfSpeech": "adv",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "widespread",
+      "partOfSpeech": "adj",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "wife",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "wild",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "will",
+      "partOfSpeech": "modal",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "will",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "willing",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "win",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "win",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "wind",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wind",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "window",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "windy",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "wine",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wing",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "winner",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "winter",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wipe",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "wire",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "wise",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "wish",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "wish",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "with",
+      "partOfSpeech": "prep",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "withdraw",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "within",
+      "partOfSpeech": "prep, adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "without",
+      "partOfSpeech": "prep, adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "witness",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "woman",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "wonder",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wonderful",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wood",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "wooden",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "wool",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "word",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "work",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "work",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "worker",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "working",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "workshop",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "world",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "worried",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "worry",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "worry",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "worrying",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "worse",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "worse",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S3",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "worth",
+      "partOfSpeech": "prep",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "worth",
+      "partOfSpeech": "n",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "would",
+      "partOfSpeech": "modal",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "wound",
+      "partOfSpeech": "v",
+      "spokenLevel": "-",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "wrap",
+      "partOfSpeech": "v",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "write",
+      "partOfSpeech": "v",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "writer",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "writing",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "wrong",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "wrong",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S2",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "yard",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "yeah",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "year",
+      "partOfSpeech": "n",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "yellow",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S2",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "yep",
+      "partOfSpeech": "interjection",
+      "spokenLevel": "S1",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "yes",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "yesterday",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "yet",
+      "partOfSpeech": "adv",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "yet",
+      "partOfSpeech": "conj",
+      "spokenLevel": "-",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "you",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "young",
+      "partOfSpeech": "adj",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "youngster",
+      "partOfSpeech": "n",
+      "spokenLevel": "S3",
+      "writtenLevel": "-"
+    },
+    {
+      "word": "your",
+      "partOfSpeech": "determiner",
+      "spokenLevel": "S1",
+      "writtenLevel": "W1"
+    },
+    {
+      "word": "yours",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W3"
+    },
+    {
+      "word": "yourself",
+      "partOfSpeech": "pron",
+      "spokenLevel": "S1",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "youth",
+      "partOfSpeech": "n",
+      "spokenLevel": "S2",
+      "writtenLevel": "W2"
+    },
+    {
+      "word": "zone",
       "partOfSpeech": "n",
       "spokenLevel": "-",
       "writtenLevel": "W3"
