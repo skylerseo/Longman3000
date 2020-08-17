@@ -8,22 +8,31 @@ body {
   text-align: center;
   font-family: "Noto Sans KR", sans-serif;
 }
-body::after{
-  content: "ⓒ 2020. Skyler Seo. All rights reserved";
+
+body::after {
+  content: '© 2020, Skyler Seo';
   display: block;
   margin-top: 50px;
+  margin-bottom: 10px;
+  color: #252730;
   font-size: 12px;
   font-weight: 500;
 }
+
 header {
-  font-family: "Jua", sans-serif;
-  font-weight: 500;
-  font-size: 30px;
   padding: 10px 0 10px 0;
   margin-bottom: 10px;
   color: #f5f5f5;
   background-color: #284d43;
 }
+
+header h1 {
+  font-family: "Jua", sans-serif;
+  font-weight: 500;
+  font-size: 30px;
+}
+
+
 nav {
   width: 1000px;
   height: 50px;
@@ -33,6 +42,7 @@ nav {
   display: flex;
   justify-content: space-around;
 }
+
 .advice {
   padding: 0 15px 0 15px;
   border: none;
@@ -40,6 +50,7 @@ nav {
   cursor: pointer;
   background-color: transparent;
 }
+
 .eachSelect {
   padding: 0 0 0 10px;
   cursor: pointer;
@@ -58,19 +69,18 @@ nav {
   /*----형광펜 밑줄 애니메이션----*/
   line-height: 1.5;
   display: inline;
-  background-image: linear-gradient(
-    transparent 50%,
-    #f8ffe1 50%,
-    #e5ff3d 85%,
-    transparent 85%,
-    transparent 100%
-  );
+  background-image: linear-gradient(transparent 50%,
+      #f8ffe1 50%,
+      #e5ff3d 85%,
+      transparent 85%,
+      transparent 100%);
   background-repeat: no-repeat;
   background-size: 0% 100%;
-  animation: animatedBackground 2s cubic-bezier(0.645, 0.045, 0.355, 1) 0.5s
-    forwards;
+  animation: animatedBackground 2s cubic-bezier(0.645, 0.045, 0.355, 1) 0.5s forwards;
 }
+
 @keyframes animatedBackground {
+
   /*----형광펜 밑줄 애니메이션----*/
   to {
     background-size: 100% 100%;
@@ -96,6 +106,7 @@ nav {
   /*클릭했을 때 파란 아웃라인 생기는 것 방지*/
   outline: none;
 }
+
 section {
   font-weight: 300;
   width: 1000px;
@@ -103,14 +114,21 @@ section {
   margin-bottom: 50px;
   height: auto;
 }
+
 table {
   width: 98%;
-  margin: auto;
+  margin: 0 auto;
   margin-bottom: 10px;
   height: auto;
   position: relative;
   border-collapse: collapse;
 }
+
+.table-title {
+  position: sticky;
+  top: 0;
+}
+
 th {
   color: white;
   font-family: "Jua", sans-serif;
@@ -122,9 +140,10 @@ th {
   border: 2px solid white;
 }
 
-.column1{
+.column1 {
   width: 35%;
 }
+
 .column3,
 .column4 {
   width: 10%;
@@ -133,12 +152,15 @@ th {
 th.column1 {
   background-color: #ff375e;
 }
+
 th.column2 {
   background-color: #ffc237;
 }
+
 th.column3 {
   background-color: #51cb83;
 }
+
 th.column4 {
   background-color: #37bfff;
 }
@@ -150,15 +172,15 @@ tr {
 }
 
 td {
-  border-bottom: 2px solid #a2a2a2;
+  border-bottom: 1px solid #a2a2a2;
 }
+
 td.column1,
 td.column2,
-td.column3,
-td.column4,
- {
-  border-right: 2px dashed #e3e3e3;
+td.column3 {
+  border-right: 1px dashed #e3e3e3;
 }
+
 /* input[type="button"] {
   border: none;
   color: white;
@@ -177,27 +199,6 @@ td.column4,
   background-color: white;
 }
 
-/* footer {
-  width: 100%;
-  margin: auto;
-  margin-bottom: 5px;
-  bottom: 0;
-  font-size: small;
-
-  line-height: 1.5;
-  display: inline;
-  background-image: linear-gradient(
-    transparent 50%,
-    #f8ffe1 50%,
-    #e5ff3d 85%,
-    transparent 85%,
-    transparent 100%
-  );
-  background-repeat: no-repeat;
-  background-size: 0% 100%;
-  animation: animatedBackground 2s cubic-bezier(0.645, 0.045, 0.355, 1) 0.5s
-    forwards;
-} */
 
 /* for tablet: ~ 800px */
 @media screen and (max-width: 800px) {
@@ -210,6 +211,7 @@ td.column4,
     color: #f5f5f5;
     background-color: #284d43;
   }
+
   nav {
     width: 100vw;
     height: 50px;
@@ -219,10 +221,12 @@ td.column4,
     display: flex;
     justify-content: space-around;
   }
+
   .advice,
   .eachSelect {
     font-size: smaller;
   }
+
   section {
     font-weight: 300;
     width: 100vw;
@@ -230,6 +234,7 @@ td.column4,
     margin-bottom: 30px;
     height: auto;
   }
+
   th {
     color: white;
     font-family: "Noto Sans KR", sans-serif;
@@ -240,10 +245,12 @@ td.column4,
     border-top-right-radius: 10px;
     border: 1px solid white;
   }
+
   tr {
     height: 30px;
     background-color: white;
   }
+
   .link {
     width: 58px;
     margin: auto;
@@ -253,17 +260,30 @@ td.column4,
     color: #284d43;
     background-color: white;
   }
+
   td {
     font-size: small;
     border-bottom: 1px solid #a2a2a2;
   }
+
   td.column1,
   td.column2,
   td.column3,
-  td.column4{
+  td.column4 {
     border-right: 1px dashed #e3e3e3;
   }
 }
-/* for smartphone: ~ 480px */
-@media screen and (max-width: 480px) {
+
+.topBtn {
+  width: 50px;
+  height: 50px;
+  border-radius: 4px;
+  border: none;
+  background-color: rgb(206, 39, 95);
+  color: white;
+  font-size: 16px;
+  padding: 0;
 }
+
+/* for smartphone: ~ 480px */
+@media screen and (max-width: 480px) {}

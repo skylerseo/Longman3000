@@ -1,99 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Longman Communication 3000</title>
-    <link rel="stylesheet" href="style.css" type="text/css" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" defer></script>
-  <script src="script.js" defer></script>
-  </head>
 
-  <body>
-    <header>
-      제일 많이 쓰이는 영단어 3000개
-    </header>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Longman Communication 3000</title>
+  <link rel="stylesheet" href="style.css" type="text/css" />
+  <script src="./src/app.js" defer></script>
+</head>
 
-    <nav>
-      <button type="button" id="howToUseBtn" class="advice">이용법</button>
-      <button type="button" id="partOfSpeechBtn" class="advice">품사 도움말</button>
-      <button type="button" id="slwlBtn" class="advice">SL? WL?</button>
-      <select name="alphabetSort" class="eachSelect">
-        <option value="전체보기">전체보기</option>
-        <option value="한 단어씩 보기">한 단어씩 보기</option>
-        <option value="A~ 단어만 보기">A~ 단어만 보기</option>
-        <option value="B~ 단어만 보기">B~ 단어만 보기</option>
-        <option value="C~ 단어만 보기">C~ 단어만 보기</option>
-        <option value="D~ 단어만 보기">D~ 단어만 보기</option>
-        <option value="E~ 단어만 보기">E~ 단어만 보기</option>
-        <option value="F~ 단어만 보기">F~ 단어만 보기</option>
-        <option value="G~ 단어만 보기">G~ 단어만 보기</option>
-        <option value="H~ 단어만 보기">H~ 단어만 보기</option>
-        <option value="I~ 단어만 보기">I~ 단어만 보기</option>
-        <option value="J~ 단어만 보기">J~ 단어만 보기</option>
-        <option value="K~ 단어만 보기">K~ 단어만 보기</option>
-        <option value="L~ 단어만 보기">L~ 단어만 보기</option>
-        <option value="M~ 단어만 보기">M~ 단어만 보기</option>
-        <option value="N~ 단어만 보기">N~ 단어만 보기</option>
-        <option value="O~ 단어만 보기">O~ 단어만 보기</option>
-        <option value="P~ 단어만 보기">P~ 단어만 보기</option>
-        <option value="Q~ 단어만 보기">Q~ 단어만 보기</option>
-        <option value="R~ 단어만 보기">R~ 단어만 보기</option>
-        <option value="S~ 단어만 보기">S~ 단어만 보기</option>
-        <option value="T~ 단어만 보기">T~ 단어만 보기</option>
-        <option value="U~ 단어만 보기">U~ 단어만 보기</option>
-        <option value="V~ 단어만 보기">V~ 단어만 보기</option>
-        <option value="W~ 단어만 보기">W~ 단어만 보기</option>
-        <option value="Y~ 단어만 보기">Y~ 단어만 보기</option>
-        <option value="Z~ 단어만 보기">Z~ 단어만 보기</option>
-      </select>
-      <select name="typeSort" class="eachSelect">
-        <option value="알파벳순 보기">알파벳순 보기</option>
-        <option value="speaking순 보기">Spoken순 보기</option>
-        <option value="writing순 보기">Written순 보기</option>
-        <option value="랜덤순 보기">랜덤순 보기</option>
-      </select>
-    </nav>
+<body>
+  <header class="logo">
+    <h1>제일 많이 쓰이는 영단어 3000개</h1>
+  </header>
 
-    <div class="howToUsePop">
-      요래요래 공부하는 것입니땅!
-    </div>
-    <div class="partOfSpeechPop">
-      품사는 8개가 있습니땅!
-    </div>
-    <div class="slwlPop">
-      sl1~3, wl~3
-    </div>
+  <nav>
+    <button type="button" id="howToUseBtn" class="advice">이용법</button>
+    <button type="button" id="partOfSpeechBtn" class="advice">품사 도움말</button>
+    <button type="button" id="slwlBtn" class="advice">SL? WL?</button>
+    <select name="alphabetSort" class="eachSelect">
+      <option value="전체보기">전체보기</option>
+      <option value="한 단어씩 보기">한 단어씩 보기</option>
+      <option value="A~ 단어만 보기">A~ 단어만 보기</option>
+      <option value="B~ 단어만 보기">B~ 단어만 보기</option>
+      <option value="C~ 단어만 보기">C~ 단어만 보기</option>
+      <option value="D~ 단어만 보기">D~ 단어만 보기</option>
+      <option value="E~ 단어만 보기">E~ 단어만 보기</option>
+      <option value="F~ 단어만 보기">F~ 단어만 보기</option>
+      <option value="G~ 단어만 보기">G~ 단어만 보기</option>
+      <option value="H~ 단어만 보기">H~ 단어만 보기</option>
+      <option value="I~ 단어만 보기">I~ 단어만 보기</option>
+      <option value="J~ 단어만 보기">J~ 단어만 보기</option>
+      <option value="K~ 단어만 보기">K~ 단어만 보기</option>
+      <option value="L~ 단어만 보기">L~ 단어만 보기</option>
+      <option value="M~ 단어만 보기">M~ 단어만 보기</option>
+      <option value="N~ 단어만 보기">N~ 단어만 보기</option>
+      <option value="O~ 단어만 보기">O~ 단어만 보기</option>
+      <option value="P~ 단어만 보기">P~ 단어만 보기</option>
+      <option value="Q~ 단어만 보기">Q~ 단어만 보기</option>
+      <option value="R~ 단어만 보기">R~ 단어만 보기</option>
+      <option value="S~ 단어만 보기">S~ 단어만 보기</option>
+      <option value="T~ 단어만 보기">T~ 단어만 보기</option>
+      <option value="U~ 단어만 보기">U~ 단어만 보기</option>
+      <option value="V~ 단어만 보기">V~ 단어만 보기</option>
+      <option value="W~ 단어만 보기">W~ 단어만 보기</option>
+      <option value="Y~ 단어만 보기">Y~ 단어만 보기</option>
+      <option value="Z~ 단어만 보기">Z~ 단어만 보기</option>
+    </select>
+    <select name="typeSort" class="eachSelect">
+      <option value="알파벳순 보기">알파벳순 보기</option>
+      <option value="speaking순 보기">Spoken순 보기</option>
+      <option value="writing순 보기">Written순 보기</option>
+      <option value="랜덤순 보기">랜덤순 보기</option>
+    </select>
+  </nav>
 
-    <section>
-      <table>
+  <div class="howToUsePop">
+    요래요래 공부하는 것입니땅!
+  </div>
+  <div class="partOfSpeechPop">
+    품사는 8개가 있습니땅!
+  </div>
+  <div class="slwlPop">
+    sl1~3, wl~3
+  </div>
 
-        <thead>
-          <!--테이블 헤더 줄. 스크롤 내려도 상단 고정-->
-          <th class="column1">단어</th>
-          <th class="column2">품사</th>
-          <th class="column3">SL</th>
-          <th class="column4">WL</th>
-        </thead>
+  <section>
+    <table>
 
-        <tbody>
-          <tr>
-            <!--단어 시작 줄.-->
-            <td class="column1">더미</td>
-            <td class="column2">더미</td>
-            <td class="column3">더미</td>
-            <td class="column4">더미</td>
-          </tr>
-          
-        </tbody>
+      <thead class="table-title">
+        <th class="column1">단어</th>
+        <th class="column2">품사</th>
+        <th class="column3">SL</th>
+        <th class="column4">WL</th>
+      </thead>
 
-      </table>
-    </section>
+      <tbody class="words">
+        <!-- <tr class="word">
+          <td class="column1">ability</td>
+          <td class="column2">n</td>
+          <td class="column3">S2</td>
+          <td class="column4">W1</td>
+        </tr> -->
+      </tbody>
 
-    <!-- <footer>
-      ⓒ 2020. Skyler Seo. All rights reserved.
-    </footer> -->
-  </body>
+    </table>
+  </section>
 
-  
+  <div>
+    <button type="button" id="topBtn" class="topBtn">TOP</button>
+  </div>
+
+</body>
+
+
 </html>
