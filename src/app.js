@@ -10,6 +10,22 @@
     - 자기만의 단어장 기능이 있었으면 좋겠다. 예)못 외우는 거 저장
 */
 
+
+// top버튼 함수
+const topBtn = document.querySelector('.topBtn');
+
+window.onscroll = function () {
+  scrollFunction()
+};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    topBtn.style.display = "block";
+  } else {
+    topBtn.style.display = "none";
+  }
+}
+
 // json파일 받아오는 함수
 function loadData() {
   return fetch('data/data.json')
