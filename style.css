@@ -60,26 +60,20 @@ nav {
 
 .advice {
   padding: 0 15px 0 15px;
-  border: none;
-  outline: none;
-  cursor: pointer;
   background-color: transparent;
 }
 
 .eachSelect {
   padding: 0 0 0 10px;
-  cursor: pointer;
 }
 
 .advice,
 .eachSelect {
-  width: auto;
-  height: 30px;
   font-size: medium;
   font-weight: unset;
-  margin-top: auto;
-  margin-bottom: auto;
+  cursor: pointer;
   border: none;
+  outline: none;
   color: hsl(198, 1%, 29%);
   /*----형광펜 밑줄 애니메이션----*/
   line-height: 1.5;
