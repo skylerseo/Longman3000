@@ -56,6 +56,7 @@ nav {
   margin-bottom: 10px;
   display: flex;
   justify-content: space-around;
+  position: relative;
 }
 
 .advice {
@@ -96,20 +97,56 @@ nav {
   }
 }
 
-.howToUsePop,
-.partOfSpeechPop,
-.slwlPop {
+.dropdownMenu {
   display: none;
-  background-color: white;
-  text-align: center;
-  width: 600px;
-  height: auto;
   position: absolute;
   z-index: 6;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  border: 1px solid black;
+  top: 100%;
+  /* right: 0; */
+  width: 200px;
+  padding: 8px 0;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 1px 15px rgba(27, 31, 35, 0.15);
+  transition: transform 200ms ease-in;
 }
+#howToUseDropdown{
+  left: 0;
+}
+#partOfSpeechDropdown{
+  left: 10%;
+}
+#slwlDropdown{
+  left: 30%;
+}
+
+.dropdownMenu.active{
+  display: block;
+}
+.dropdownMenu:hover{
+  transform: translateY(2px);
+}
+.dropdownMenu::before{
+  content: '';
+  position: absolute;
+  
+  width: 0;
+  height: 0;
+  border-top: 9px solid transparent;
+  border-left: 8px solid transparent;
+  border-bottom: 9px solid #fff;
+  border-right: 8px solid transparent;
+}
+#howToUseDropdown::before{
+  top: -18px;
+  right: 120px;
+}
+#partOfSpeechDropdown::before,
+#slwlDropdown::before{
+  top: -18px;
+  right: 12px;
+}
+
 
 *:focus {
   /*클릭했을 때 파란 아웃라인 생기는 것 방지*/

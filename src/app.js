@@ -8,6 +8,7 @@
     - longman3000에 대해서 알려주는 곳
     - s1, w1 등에 대해 알려주는 곳
     - 자기만의 단어장 기능이 있었으면 좋겠다. 예)못 외우는 거 저장
+    - 로그인 기능 필요
 */
 
 
@@ -65,3 +66,102 @@ loadData()
     setEventListeners(words);
   })
   .catch(console.log);
+
+// 이용법 click했을 때
+const howToUseBtn = document.querySelector('#howToUseBtn');
+const howToUseDropdown = document.querySelector('#howToUseDropdown');
+howToUseBtn.addEventListener('click', (event) => {
+  if (this.active) {
+    howToUseDropdown.classList.remove('active');
+  } else {
+    howToUseDropdown.classList.add('active');
+  }
+
+  this.active = !this.active;
+});
+howToUseDropdown.active = false;
+
+// 이용법 외부 아무 곳이나 click했을 때
+document.addEventListener("click", (event) => {
+  if(event.target == howToUseBtn && howToUseDropdown.style.display != "block"){
+    howToUseDropdown.style.display = "block";
+  }
+  else{
+    howToUseDropdown.style.display = "none";
+  }
+});
+
+// 품사 도움말 click했을 때
+const partOfSpeechBtn = document.querySelector('#partOfSpeechBtn');
+const partOfSpeechDropdown = document.querySelector('#partOfSpeechDropdown');
+partOfSpeechBtn.addEventListener('click', (event) => {
+  if (this.active) {
+    partOfSpeechDropdown.classList.remove('active');
+  } else {
+    partOfSpeechDropdown.classList.add('active');
+  }
+
+  this.active = !this.active;
+});
+partOfSpeechDropdown.active = false;
+
+// 품사 도움말 외부 아무 곳이나 click했을 때
+document.addEventListener("click", (event) => {
+  if(event.target == partOfSpeechBtn && partOfSpeechDropdown.style.display != "block"){
+    partOfSpeechDropdown.style.display = "block";
+  }
+  else{
+    partOfSpeechDropdown.style.display = "none";
+  }
+});
+
+// SL? WL? click했을 때
+const slwlBtn = document.querySelector('#slwlBtn');
+const slwlDropdown = document.querySelector('#slwlDropdown');
+slwlBtn.addEventListener('click', (event) => {
+  if (this.active) {
+    slwlDropdown.classList.remove('active');
+  } else {
+    slwlDropdown.classList.add('active');
+  }
+
+  this.active = !this.active;
+});
+slwlDropdown.active = false;
+
+// SL? WL? 외부 아무 곳이나 click했을 때
+document.addEventListener("click", (event) => {
+  if(event.target == slwlBtn && slwlDropdown.style.display != "block"){
+    slwlDropdown.style.display = "block";
+  }
+  else{
+    slwlDropdown.style.display = "none";
+  }
+});
+
+
+
+
+function dropdown (btn, menu) {
+  btn.addEventListener('click', (event, menu) => {
+    if (this.active) {
+      menu.classList.remove('active');
+    } else {
+      menu.classList.add('active');
+    }
+  
+    this.active = !this.active;
+  });
+  menu.active = false;
+  
+  document.addEventListener("click", (event, btn, menu) => {
+    // const IsdisplayOn: Boolean = true
+    // dropMenuOn(wl|ls type … ), dropMenuOff()
+    if(event.target == btn && menu.style.display != "block"){
+      menu.style.display = "block";
+    }
+    else{
+      menu.style.display = "none";
+    }
+  });
+}
